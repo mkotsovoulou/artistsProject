@@ -1,0 +1,10 @@
+Options -Indexes
+
+DirectoryIndex artists.php
+
+
+ErrorDocument 404 /inc/404.html
+#404 is page not found
+
+ErrorDocument 403 /inc/403.html
+#403 is access forbidden

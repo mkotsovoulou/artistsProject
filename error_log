@@ -1,0 +1,555 @@
+[26-Mar-2018 10:58:59 UTC] PHP Parse error:  syntax error, unexpected '$paintings' (T_VARIABLE) in /home/mairak/public_html/paintings.php on line 3
+[26-Mar-2018 10:59:18 UTC] PHP Fatal error:  Call to undefined function getPaintings() in /home/mairak/public_html/paintings.php on line 3
+[26-Mar-2018 11:00:08 UTC] PHP Fatal error:  Call to undefined function getPaintings() in /home/mairak/public_html/paintings.php on line 3
+[26-Mar-2018 11:18:19 UTC] PHP Fatal error:  Call to undefined function getPaintingBlob() in /home/mairak/public_html/searchPaintings.php on line 10
+[26-Mar-2018 11:19:21 UTC] PHP Fatal error:  Call to undefined function getPaintingBlob() in /home/mairak/public_html/searchPaintings.php on line 10
+[15-Apr-2018 09:59:08 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/mairak/public_html/artists.php on line 42
+[15-Apr-2018 11:30:50 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mairak/public_html/artists.php on line 25
+[15-Apr-2018 11:31:50 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mairak/public_html/artists.php on line 85
+[15-Apr-2018 11:31:53 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/mairak/public_html/artists.php on line 85
+[15-Apr-2018 11:36:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 24
+[15-Apr-2018 11:36:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 24
+[15-Apr-2018 11:36:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 24
+[15-Apr-2018 11:36:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 24
+[15-Apr-2018 11:36:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 24
+[15-Apr-2018 11:42:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 23
+[15-Apr-2018 11:42:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 23
+[15-Apr-2018 11:42:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:22) in /home/mairak/public_html/artists.php on line 23
+[15-Apr-2018 11:58:06 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/mairak/public_html/artists.php on line 9
+[15-Apr-2018 11:58:14 UTC] PHP Fatal error:  Call to undefined function vardump() in /home/mairak/public_html/artists.php on line 9
+[15-Apr-2018 12:21:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:18) in /home/mairak/public_html/artists.php on line 23
+[15-Apr-2018 12:21:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:18) in /home/mairak/public_html/artists.php on line 23
+[15-Apr-2018 12:21:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mairak/public_html/head.php:18) in /home/mairak/public_html/artists.php on line 23
+[16-Apr-2018 10:15:39 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/mairak/public_html/artists2.php on line 15
+[16-Apr-2018 10:15:41 UTC] PHP Parse error:  syntax error, unexpected '>' in /home/mairak/public_html/artists2.php on line 15
+[16-Apr-2018 10:35:10 UTC] PHP Fatal error:  Call to undefined function getArtists() in /home/mairak/public_html/artistsComboBox.php on line 3
+[16-Apr-2018 10:36:02 UTC] PHP Fatal error:  Call to undefined function getArtists() in /home/mairak/public_html/artistsComboBox.php on line 3
+[16-Apr-2018 10:36:56 UTC] PHP Fatal error:  Call to undefined function getArtists() in /home/mairak/public_html/artistsComboBox.php on line 3
+[16-Apr-2018 10:37:40 UTC] PHP Fatal error:  Call to undefined function getArtists() in /home/mairak/public_html/artistsComboBox.php on line 3
+[16-Apr-2018 10:38:06 UTC] PHP Fatal error:  Call to undefined function getArtists() in /home/mairak/public_html/artistsComboBox.php on line 3
+[16-Apr-2018 10:38:07 UTC] PHP Fatal error:  Call to undefined function getArtists() in /home/mairak/public_html/artistsComboBox.php on line 3
+[16-Apr-2018 10:58:25 UTC] PHP Fatal error:  Call to undefined function findArtists() in /home/mairak/public_html/searchArtists.php on line 6
+[16-Apr-2018 10:58:48 UTC] PHP Fatal error:  Call to undefined function findArtists() in /home/mairak/public_html/searchArtists.php on line 6
+[17-Apr-2018 11:20:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mairak/public_html/artists2.php on line 13
+[17-Apr-2018 11:20:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/mairak/public_html/artists2.php on line 13
+[17-Apr-2018 11:26:59 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mairak/public_html/artists2.php on line 14
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 15
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined index: randcheck in /home/mairak/public_html/artists2.php on line 16
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 16
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:29:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 112
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined index: randcheck in /home/mairak/public_html/artists2.php on line 16
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 16
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:17 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 112
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 87
+[17-Apr-2018 11:30:34 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists2.php on line 112
+[17-Apr-2018 11:32:30 UTC] PHP Notice:  Constant DB_HOST already defined in /home/mairak/public_html/config.php on line 8
+[17-Apr-2018 11:32:30 UTC] PHP Notice:  Constant DB_NAME already defined in /home/mairak/public_html/config.php on line 9
+[17-Apr-2018 11:32:30 UTC] PHP Notice:  Constant DB_PORT already defined in /home/mairak/public_html/config.php on line 10
+[17-Apr-2018 11:32:30 UTC] PHP Notice:  Constant DB_USER already defined in /home/mairak/public_html/config.php on line 11
+[17-Apr-2018 11:32:30 UTC] PHP Notice:  Constant DB_PASS already defined in /home/mairak/public_html/config.php on line 12
+[17-Apr-2018 11:33:15 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 21
+[17-Apr-2018 11:34:34 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 21
+[17-Apr-2018 11:37:26 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 21
+[17-Apr-2018 11:45:41 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 9
+[17-Apr-2018 11:45:44 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 9
+[17-Apr-2018 11:52:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mairak/public_html/artists2.php:2) in /home/mairak/public_html/head.php on line 4
+[17-Apr-2018 12:03:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/mairak/public_html/artists2.php:2) in /home/mairak/public_html/head.php on line 4
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[17-Apr-2018 12:04:08 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[17-Apr-2018 12:04:12 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[17-Apr-2018 12:09:21 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[17-Apr-2018 12:09:36 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[17-Apr-2018 12:09:44 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 15
+[17-Apr-2018 12:11:30 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 15
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[17-Apr-2018 12:11:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[17-Apr-2018 12:28:44 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[18-Apr-2018 08:53:56 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[18-Apr-2018 10:01:04 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[18-Apr-2018 10:03:41 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[18-Apr-2018 10:20:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/mairak/public_html/artists.php on line 12
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[19-Apr-2018 09:42:23 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[19-Apr-2018 19:04:59 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[20-Apr-2018 09:38:12 UTC] PHP Parse error:  syntax error, unexpected '$rand' (T_VARIABLE) in /home/mairak/public_html/artists2.php on line 15
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[20-Apr-2018 12:48:25 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 75
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 89
+[20-Apr-2018 16:58:28 UTC] PHP Notice:  Undefined variable: rand in /home/mairak/public_html/artists.php on line 100
+[20-Apr-2018 16:58:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.artistid' in 'where clause'' in /home/mairak/public_html/dbFunctions.php:30
+Stack trace:
+#0 /home/mairak/public_html/dbFunctions.php(30): PDOStatement->execute()
+#1 /home/mairak/public_html/searchPaintings.php(12): getPaintingBlob('1')
+#2 {main}
+  thrown in /home/mairak/public_html/dbFunctions.php on line 30
+[20-Apr-2018 17:05:13 UTC] PHP Fatal error:  Call to undefined function login() in /home/mairak/public_html/login.php on line 57
+[20-Apr-2018 17:11:03 UTC] PHP Fatal error:  Call to undefined function login() in /home/mairak/public_html/login.php on line 57
+[20-Apr-2018 17:12:03 UTC] PHP Notice:  Undefined index: fullname in /home/mairak/public_html/dbFunctions.php on line 103
+[20-Apr-2018 17:12:15 UTC] PHP Notice:  Undefined index: fullname in /home/mairak/public_html/dbFunctions.php on line 103
+[20-Apr-2018 18:26:04 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/mairak/public_html/login.php on line 53

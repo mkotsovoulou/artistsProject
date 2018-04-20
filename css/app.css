@@ -1,0 +1,140 @@
+.log-in-form {
+    border: 1px solid #cacaca;
+    padding: 1rem;
+    border-radius: 0;
+    margin:auto;
+}
+
+.wrap {
+    width: 90%;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+/*************************************
+  NAV - DESKTOP
+**************************************/
+.nav-desktop {
+    background-color: rgba(255,255,255,0);
+    height:80px;
+    padding:0 ;
+}
+
+.site-logo {
+   color:white;
+   line-height:80px; /*we give the same height as the nav to center it */
+
+}
+
+.nav-desktop  .menu-desktop 
+{
+    background-color: rgba(255,255,255,0); 
+    line-height: 80px;
+    padding-top:0;
+}
+
+.nav-desktop a {
+    display:inline-block;
+    line-height: 80px;
+    padding-top:0;
+    padding-bottom: 0;
+    color: white;
+}
+.nav-desktop a:hover {
+    background-color: rgba(255,255,255,0.2); /* whatever is the color behind, slighty ligher */
+}
+
+/*************************************
+   HERO
+   https://www.toptal.com/designers/subtlepatterns/tag/dark
+**************************************/
+
+.more {
+    text-overflow: ellipsis; /*This works only in single line text*/
+    overflow: hidden;
+    height:220px;
+  }
+
+.hero{
+    background-color: lightgray;
+    height:400px;
+    padding: 50px 0;
+    background-image: url('../img/heroBack.png');
+}
+
+.hero h2,
+.hero p {
+    color: rgba(255,255,255,0.8);
+}
+
+.button.success{
+    color:purple;
+}
+
+/*************************************
+  MAIN
+**************************************/
+.main {
+ padding: 50px 0;
+
+}
+
+/*************************************
+  FOOTER
+**************************************/
+footer{
+    background-color: rgb(185, 43, 43);
+    padding: 80px 0;
+}
+
+footer hr {
+border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+footer h4 {
+    display: block;
+    color: rgba(255,255,255,0.8);
+    font-size: 1.3em;
+} 
+footer a {
+    display: block;
+    color: rgba(255,255,255,0.6);
+    font-size: 0.9em;
+}
+
+footer a:hover {
+    color: rgba(255,255,255,0.4);
+
+}
+footer a span{
+    font-weight: bold;
+}
+
+/**************************************
+MEDIA QUERIES
+**************************************/
+@media screen and (max-width: 639px) {
+.more {
+    text-overflow: ellipsis; /*This works only in single line text*/
+    overflow: hidden;
+    height:150px;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .hero{
+    background-color: lightgray;
+    height:300px;
+    padding: 30px 0;
+   }
+
+   .nav-desktop {
+    display: none;
+   }
+
+}

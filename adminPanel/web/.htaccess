@@ -1,0 +1,6 @@
+Options -MultiViews
+
+    RewriteEngine On
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteBase /adminPanel/web/
+    RewriteRule ^ index.php [QSA,L]
